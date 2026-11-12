@@ -1,0 +1,13 @@
+# Rock vs Mine Prediction
+
+A Machine Learning project using Logistic Regression to classify underwater sonar signals as Rock or Mine.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Google Colab
+
+## Algorithm
+Logistic Regression
